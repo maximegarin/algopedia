@@ -88,8 +88,8 @@ Ces points relèvent du périmètre CCP1 (front-end). La gestion d'un vrai backe
 
 | Projet | Stade | Apport |
 | --- | --- | --- |
-| [LOOMI](https://github.com/maximegarin/loomi) | Tout début de formation | Premier projet : HTML/CSS/JS statique |
-| **ALGOPEDIA** | **CCP1** | **Données dynamiques via JSON + modules ES6** |
+| [loomi](https://github.com/maximegarin/loomi) | Tout début de formation | Premier projet : HTML/CSS/JS statique |
+| **algopedia** | **CCP1** | **Données dynamiques via JSON + modules ES6** |
 | [password-manager-api](https://github.com/maximegarin/password-manager-api) | Plus avancé | Vrai backend Node/Express, API REST, 2FA, sécurité |
 | [pbd-annuaire](https://github.com/maximegarin/pbd-annuaire) | En autonomie / production | WordPress/PHP, perf, RGPD, livré pour un vrai client |
 
