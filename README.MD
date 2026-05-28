@@ -66,8 +66,9 @@ Aucune dépendance, aucun build.
 | Login Page | Menu dynamique (JSON) | Articles dynamiques (JSON) | 
 | --- | --- | --- | --- |
 
-
-
+<img width="1920" height="972" alt="Image" src="https://github.com/user-attachments/assets/c5180194-f460-4d4a-b3c0-74ca38c71b2f" />
+<img width="1920" height="972" alt="Image" src="https://github.com/user-attachments/assets/46115c02-91f8-4031-90b0-db03cea7b36a" />
+<img width="1920" height="972" alt="Image" src="https://github.com/user-attachments/assets/1c0d9e42-a28c-46bb-876f-81f1aa07b847" />
 
 ---
 
