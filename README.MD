@@ -61,6 +61,16 @@ Aucune dépendance, aucun build.
 
 ---
 
+## Captures d'écran
+
+| Desktop | Messagerie | Menu actif | Menu burger (mobile)
+| --- | --- | --- | --- |
+
+
+
+
+---
+
 ## Lancement local
 
 Le `type="module"` + les `fetch` imposent un serveur HTTP (pas de `file://`) :
