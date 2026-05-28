@@ -63,7 +63,7 @@ Aucune dépendance, aucun build.
 
 ## Captures d'écran
 
-| Desktop | Messagerie | Menu actif | Menu burger (mobile)
+| Login Page | Menu dynamique (JSON) | Articles dynamiques (JSON) | 
 | --- | --- | --- | --- |
 
 
