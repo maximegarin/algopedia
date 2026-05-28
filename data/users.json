@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nom": "Dupont",
+      "prenom": "Alice",
+      "email": "alice.dupont@example.com",
+      "avatar": "https://placehold.co/100x100?text=Alice",
+      "role": "rédacteur",
+      "password": "rédacteur"
+    },
+    {
+      "id": 2,
+      "nom": "Nguyen",
+      "prenom": "Khoa",
+      "email": "khoa.nguyen@example.com",
+      "avatar": "https://placehold.co/100x100?text=Khoa",
+      "role": "rédacteur",
+      "password": "rédacteur"
+    },
+    {
+      "id": 3,
+      "nom": "Benali",
+      "prenom": "Youssef",
+      "email": "youssef.benali@example.com",
+      "avatar": "https://placehold.co/100x100?text=Youssef",
+      "role": "admin",
+      "password": "admin"
+    },
+    {
+      "id": 4,
+      "nom": "Martin",
+      "prenom": "Clara",
+      "email": "clara.martin@example.com",
+      "avatar": "https://placehold.co/100x100?text=Clara",
+      "role": "user",
+      "password": "user"
+    },
+    {
+      "id": 5,
+      "nom": "Keller",
+      "prenom": "Lucas",
+      "email": "lucas.keller@example.com",
+      "avatar": "https://placehold.co/100x100?text=Lucas",
+      "role": "user",
+      "password": "user"
+    },
+    {
+      "id": 6,
+      "nom": "Rossi",
+      "prenom": "Sofia",
+      "email": "sofia.rossi@example.com",
+      "avatar": "https://placehold.co/100x100?text=Sofia",
+      "role": "user",
+      "password": "user"
+    },
+    {
+      "id": 7,
+      "nom": "Moreau",
+      "prenom": "Antoine",
+      "email": "antoine.moreau@example.com",
+      "avatar": "https://placehold.co/100x100?text=Antoine",
+      "role": "user",
+      "password": "user"
+    },
+    {
+      "id": 8,
+      "nom": "Garcia",
+      "prenom": "Elena",
+      "email": "elena.garcia@example.com",
+      "avatar": "https://placehold.co/100x100?text=Elena",
+      "role": "user",
+      "password": "user"
+    }
+  ]
+}

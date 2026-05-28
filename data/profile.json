@@ -1,0 +1,26 @@
+{
+  "profile": {
+    "id": 2,
+    "nom": "Nguyen",
+    "prenom": "Khoa",
+    "email": "khoa.nguyen@example.com",
+    "avatar": "https://placehold.co/100x100?text=Khoa",
+    "bio": "Développeur passionné par le web et l’enseignement du code.",
+    "articles": [
+      {
+        "id": 1,
+        "titre": "Les bases du HTML5",
+        "categorie": "Web",
+        "date_creation": "2025-10-01",
+        "image": "https://placehold.co/300x200?text=HTML5"
+      },
+      {
+        "id": 8,
+        "titre": "Comprendre les promesses en JavaScript",
+        "categorie": "Programmation",
+        "date_creation": "2025-10-20",
+        "image": "https://placehold.co/300x200?text=Promises"
+      }
+    ]
+  }
+}

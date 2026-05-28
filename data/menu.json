@@ -1,0 +1,118 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "nom": "Informatique & Programmation",
+      "categories": [
+        { "id": 1, "nom": "Informatique", "articles": [] },
+        { "id": 2, "nom": "Programmation", "articles": [] },
+        { "id": 16, "nom": "Python", "articles": [3] },
+        { "id": 17, "nom": "JavaScript", "articles": [5] },
+        { "id": 18, "nom": "PHP", "articles": [] },
+        { "id": 19, "nom": "C#", "articles": [] },
+        { "id": 20, "nom": "C++", "articles": [] },
+        { "id": 21, "nom": "Java", "articles": [] },
+        { "id": 22, "nom": "Rust", "articles": [17] },
+        { "id": 23, "nom": "Go", "articles": [] },
+        { "id": 24, "nom": "Web", "articles": [2] },
+        { "id": 25, "nom": "Frontend", "articles": [] },
+        { "id": 26, "nom": "Backend", "articles": [] },
+        { "id": 27, "nom": "Mobile", "articles": [] },
+        { "id": 28, "nom": "iOS", "articles": [] },
+        { "id": 29, "nom": "Android", "articles": [] },
+        { "id": 30, "nom": "React", "articles": [6] },
+        { "id": 31, "nom": "Vue.js", "articles": [] },
+        { "id": 32, "nom": "Angular", "articles": [] },
+        { "id": 33, "nom": "Next.js", "articles": [] },
+        { "id": 34, "nom": "Node.js", "articles": [7] }
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Matériel & Systèmes",
+      "categories": [
+        { "id": 3, "nom": "Matériel", "articles": [] },
+        { "id": 12, "nom": "Systèmes", "articles": [] },
+        { "id": 13, "nom": "Linux", "articles": [] },
+        { "id": 14, "nom": "Windows", "articles": [] },
+        { "id": 15, "nom": "MacOS", "articles": [] },
+        { "id": 52, "nom": "Serveurs", "articles": [] },
+        { "id": 54, "nom": "Administration système", "articles": [] },
+        { "id": 55, "nom": "Maintenance", "articles": [] },
+        { "id": 56, "nom": "Virtualisation", "articles": [] }
+      ]
+    },
+    {
+      "id": 3,
+      "nom": "Réseaux & Sécurité",
+      "categories": [
+        { "id": 4, "nom": "Cybersécurité", "articles": [10] },
+        { "id": 5, "nom": "Réseaux", "articles": [] },
+        { "id": 53, "nom": "Sécurité réseau", "articles": [19] },
+        { "id": 69, "nom": "Cloud Security", "articles": [] }
+      ]
+    },
+    {
+      "id": 4,
+      "nom": "Données & IA",
+      "categories": [
+        { "id": 6, "nom": "Base de données", "articles": [] },
+        { "id": 7, "nom": "IA", "articles": [8] },
+        { "id": 8, "nom": "Machine Learning", "articles": [12] },
+        { "id": 9, "nom": "Deep Learning", "articles": [11] },
+        { "id": 38, "nom": "Data", "articles": [] },
+        { "id": 39, "nom": "Big Data", "articles": [13] },
+        { "id": 40, "nom": "Blockchain", "articles": [] },
+        { "id": 41, "nom": "Crypto", "articles": [] }
+      ]
+    },
+    {
+      "id": 5,
+      "nom": "Design & Multimédia",
+      "categories": [
+        { "id": 43, "nom": "Réalité augmentée", "articles": [] },
+        { "id": 44, "nom": "Réalité virtuelle", "articles": [] },
+        { "id": 45, "nom": "UI/UX", "articles": [] },
+        { "id": 46, "nom": "Design", "articles": [] },
+        { "id": 47, "nom": "3D", "articles": [] },
+        { "id": 48, "nom": "Audio", "articles": [] },
+        { "id": 49, "nom": "Vidéo", "articles": [] },
+        { "id": 50, "nom": "Jeux vidéo", "articles": [] }
+      ]
+    },
+    {
+      "id": 6,
+      "nom": "Business & Productivité",
+      "categories": [
+        { "id": 10, "nom": "Cloud", "articles": [] },
+        { "id": 11, "nom": "DevOps", "articles": [4, 9, 16] },
+        { "id": 35, "nom": "Express", "articles": [] },
+        { "id": 36, "nom": "API REST", "articles": [] },
+        { "id": 37, "nom": "GraphQL", "articles": [14] },
+        { "id": 42, "nom": "IoT", "articles": [] },
+        { "id": 57, "nom": "Automatisation", "articles": [] },
+        { "id": 58, "nom": "NoCode", "articles": [20] },
+        { "id": 59, "nom": "LowCode", "articles": [] },
+        { "id": 60, "nom": "Robots", "articles": [] },
+        { "id": 61, "nom": "Sciences", "articles": [] },
+        { "id": 62, "nom": "Éducation", "articles": [] },
+        { "id": 63, "nom": "Innovation", "articles": [] },
+        { "id": 64, "nom": "Startups", "articles": [] },
+        { "id": 65, "nom": "Entreprise", "articles": [] },
+        { "id": 66, "nom": "Marketing digital", "articles": [] },
+        { "id": 67, "nom": "E-commerce", "articles": [] },
+        { "id": 68, "nom": "SEO", "articles": [] },
+        { "id": 70, "nom": "Accessibilité", "articles": [] },
+        { "id": 71, "nom": "Performance web", "articles": [18] },
+        { "id": 72, "nom": "Testing", "articles": [] },
+        { "id": 73, "nom": "Scrum", "articles": [] },
+        { "id": 74, "nom": "Agilité", "articles": [] },
+        { "id": 75, "nom": "Productivité", "articles": [] },
+        { "id": 76, "nom": "Inspiration", "articles": [] },
+        { "id": 77, "nom": "Freelance", "articles": [] },
+        { "id": 78, "nom": "Emploi tech", "articles": [] },
+        { "id": 51, "nom": "Cloud computing", "articles": [15] }
+      ]
+    }
+  ]
+}
